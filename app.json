@@ -3,8 +3,9 @@
   "displayName": "CatBaTravel",
   "expo": {
     "name": "CatBaTravel",
-    "slug": "CatBaTravel",
+    "slug": "cat-ba-travel",
     "version": "1.0.0",
+    "owner": "ngmanh",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "splash": {
